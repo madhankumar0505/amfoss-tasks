@@ -1,1 +1,4 @@
+REGISTERING MY NICK ON IRC FREENODE:
 
+IRC Freenode nick:
+Madhan
