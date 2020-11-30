@@ -1,4 +1,3 @@
-HACKERRANK USERNAME : madhankumar05
+HACKERRANK USERNAME : @madhankumar05
 
-This task didnt go well for me. I didnt make any notable measures in my school to learn c++. So I did start learning python (50% completed) from codecademy. And I had to attend this programming task with that knowledge. I was able to hardly complete one program. But still I feel satisfied for trying all the problems from the task.
-
+This task didnt go well for me. I was able to complete only four code challenges sucessfully with 100 points. The minimum ninja sum challenge gave me only 40 points. Other code challenges didnot give hands for me. Yet satisfied for trying my best :)
