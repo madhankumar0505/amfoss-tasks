@@ -14,7 +14,7 @@ STATUS OF TASKS :
 | task-06         | not tried             |  -                            |
 | task-07         | tried                 |android studio install problem |
 | task-08         | not tried             |   -                           |
-| task-09         | complete              |    -                          |
+| task-09         | completed             |    -                          |
 | task-10         | incomplete            |done until Pset-02             |
 | task-11         | completed             |     -                         |
 | task-12         | completed             |      -                        |
