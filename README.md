@@ -8,7 +8,7 @@ STATUS OF TASKS :
 | task-00         | completed             | -                             |
 | task-01         | completed             | -                             |
 | task-02         | completed             | -                             |
-| task-03         | incomplete            | 4 done,1 partial,4 not tried  |  
+| task-03         | incomplete            | 4 done,1 partial,4 tried  |  
 | task-04         | completed             | -                             |
 | task-05         | incomplete            |done scrap with python         |
 | task-06         | not tried             |  -                            |
